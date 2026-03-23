@@ -1,96 +1,66 @@
-<div align="center">
-<h1>👋 Hi, I'm Galal Al-Dain</h1>
-<h3>🔐 Cybersecurity Student | 🌐 Web Developer | 🤖 AI Enthusiast</h3>
+# 👋 Hi, I'm Jalal Al-Din | جلال الدين 🛡️
+### Cybersecurity Student (L2) | Full-Stack Developer | UI/UX Designer | AI Specialist
 
-<img src="https://i.imgur.com/dTYwdG1.gif" width="300"/>
-</div>
+> "Building secure, beautiful, and intelligent digital experiences."
 
----
-
-## 🚀 About Me
-
-💡 I’m a passionate **Cybersecurity student** with a strong interest in **Web Development** and **Artificial Intelligence**.  
-🎯 My mission is to become a **highly skilled Security Engineer** and build secure, powerful systems.
-
-- 🔐 Learning how to **hack & secure web applications**
-- 🌐 Building modern web projects from scratch
-- 🧠 Improving problem-solving & programming skills
-- 🤖 Exploring AI and its use in cybersecurity
+I am a passionate Cybersecurity student (Level 2) with a deep-rooted expertise in Web Development and UI/UX Design. I bridge the gap between aesthetics and security, ensuring that every line of code I write is not only functional and beautiful but also resilient against threats.
 
 ---
 
-## ⚔️ Skills
-
-### 💻 Programming
-- C++
-- JavaScript
--Java
--C#
--Php
--python
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript (DOM, Events)
-
-### 🔐 Cybersecurity
-- Networking Basics
-- Web Security Fundamentals
-- OWASP Top 10 (In Progress)
-
-### 🛠 Tools
-- VS Code
-- Cursor
-- Git & GitHub
-- XAMPP / MySQL
-- Browser DevTools
+## 🧠 About Me
+- 🛡️ Cybersecurity Enthusiast: Currently in my 2nd year, focusing on Web Security, Pentesting, and Secure Coding.
+- 🎨 Creative Designer: Expert in UI/UX, crafting intuitive and responsive user interfaces.
+- 🤖 AI Advocate: Advanced user of Claude AI and Cursor to accelerate development and optimize security audits.
+- 🚀 Full-Spectrum Developer: Proficient in multiple programming paradigms from Low-level to High-level languages.
 
 ---
 
-## 🎯 Current Focus
+## ⚔️ Technical Arsenal
 
-- 📚 Mastering **Data Structures**
-- 🌐 Deep dive into **Frontend & Backend Development**
-- 🔐 Learning **Web Vulnerabilities & Exploitation**
-- 🧪 Building real-world security projects
+### 💻 Programming Languages
+Python • C# • PHP • Java • C++ • JavaScript • SQL
+
+### 🌐 Web & Frameworks
+- Backend: Laravel • Django • ASP.NET • Spring
+- Frontend: HTML5 • CSS3 • JavaScript (ES6+) • UI/UX Principles
+- Database: MySQL • PostgreSQL • Data Management
+
+### 🔐 Cybersecurity Skills
+- Web Security: OWASP Top 10, XSS, SQL Injection prevention.
+- Network Security: Fundamental protocols and defense mechanisms.
+- Security by Design: Implementing security in the early stages of UI/UX and Dev.
+
+---
+
+## 🛠️ Development Environment (IDEs & Tools)
+I believe in using the best tools to achieve peak productivity:
+- AI-Powered: Cursor ✨ • Claude AI.
+- JetBrains Ecosystem: PhpStorm • PyCharm • IntelliJ IDEA • DataGrip.
+- Microsoft Suite: VS Code • Visual Studio • Basic.
+- Design Tools: Figma • Adobe XD.
+
+---
+
+## 📈 My Learning & Focus (Level 2 Path)
+- 📚 Mastering Data Structures & Algorithms for optimized performance.
+- 🛡️ Deep dive into Ethical Hacking and Web Vulnerabilities.
+- 🎨 Refining UI/UX Design to create "Security-First" user experiences.
+- 🤖 Integrating AI workflows into professional software engineering.
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</div>
+![Jalal's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 💬 Dev Quote
-
-<div align="center">
-
-> "The best way to learn security is to break things… then understand how to fix them."
-
-</div>
+## 📫 Let's Connect
+- 📧 Email: [jlalalhmwdy1@gmail.com](mailto:jlalalhmwdy1@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 🎨 Portfolio: [Your Design/Dev Portfolio Link]
 
 ---
-
-## 🌍 Connect With Me
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-💥 I don’t just want to use technology… I want to **master it, break it, and secure it.**
+<p align="center">
+  <i>"Code is poetry, but Security is the shield." - Jalal Al-Din</i>
+</p>
