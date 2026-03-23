@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jalal Al-Din | جلال الدين 🛡️
+# 👋 Hi, I'm Galal Al-Dain | جلال الدين 🛡️
 ### Cybersecurity Student (L2) | Full-Stack Developer | UI/UX Designer | AI Specialist
 
 > "Building secure, beautiful, and intelligent digital experiences."
@@ -50,17 +50,17 @@ I believe in using the best tools to achieve peak productivity:
 ---
 
 ## 📊 GitHub Stats
-![Jalal's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Jalal's Stats](https://github-readme-stats.vercel.app/api?username=sonic-g10&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonic-g10&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 - 📧 Email: [jlalalhmwdy1@gmail.com](mailto:jlalalhmwdy1@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
-- 🎨 Portfolio: [Your Design/Dev Portfolio Link]
+- 💼 LinkedIn: [...]
+- 🎨 Portfolio: [...]
 
 ---
 <p align="center">
-  <i>"Code is poetry, but Security is the shield." - Jalal Al-Din</i>
+  <i>"Code is poetry, but Security is the shield." - Galal Al-Dain</i>
 </p>
